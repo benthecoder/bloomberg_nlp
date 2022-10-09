@@ -1,0 +1,126 @@
+Top 5 topics for LDA model for challenge 1:
+Topic 1: ['ciudad', 'real', 'spanish', 'year', 'airport']
+Topic 2: ['asia', 'shoot', 'world', 'outside', 'million']
+Topic 3: ['theme', 'malaysia', 'legoland', 'park', 'water']
+Topic 4: ['asia', 'shoot', 'world', 'outside', 'million']
+Topic 5: ['training', 'space', '2014', 'travel', 'dates']
+
+Top 5 topics for NMF model for challenge 1:
+Topic 1: ['book', 'valid', '2014', 'travel', 'dates']
+Topic 2: ['flight', 'said', 'garriott', 'training', 'space']
+Topic 3: ['ciudad', 'real', 'year', 'spanish', 'airport']
+Topic 4: ['composer', 'indian', 'film', 'music', 'rahman']
+Topic 5: ['lego', 'malaysia', 'legoland', 'park', 'water']
+
+Top 5 topics for SVD model for challenge 1:
+Topic 1: ['valid', 'book', '2014', 'travel', 'dates']
+Topic 2: ['air', 'garriott', 'said', 'training', 'space']
+Topic 3: ['ciudad', 'real', 'spanish', 'year', 'airport']
+Topic 4: ['composer', 'indian', 'film', 'music', 'rahman']
+Topic 5: ['lego', 'malaysia', 'legoland', 'park', 'water']
+
+Top 5 topics for LDA model for challenge 2:
+Topic 1: ['sept', 'uk', 'oct', 'billion', 'bank']
+Topic 2: ['lose', 'really', 'close', 'time', 'plans']
+Topic 3: ['lose', 'really', 'close', 'time', 'plans']
+Topic 4: ['city', 'protests', 'said', 'financial', 'police']
+Topic 5: ['lindt', 'dempsey', 'tully', 'said', 'coffee']
+
+Top 5 topics for NMF model for challenge 2:
+Topic 1: ['sept', 'uk', 'oct', 'billion', 'bank']
+Topic 2: ['city', 'thursday', 'protests', 'financial', 'police']
+Topic 3: ['said', 'seattle', 'tully', 'dempsey', 'coffee']
+Topic 4: ['chocolate', 'billion', 'tanner', 'markets', 'lindt']
+Topic 5: ['really', 'alves', 'right', 'maybe', 'mcconaughey']
+
+Top 5 topics for SVD model for challenge 2:
+Topic 1: ['sept', 'uk', 'oct', 'billion', 'bank']
+Topic 2: ['thursday', 'said', 'protests', 'financial', 'police']
+Topic 3: ['said', 'seattle', 'tully', 'dempsey', 'coffee']
+Topic 4: ['franc', 'chocolate', 'tanner', 'year', 'lindt']
+Topic 5: ['really', 'maybe', 'right', 'alves', 'mcconaughey']
+
+Top 5 topics for LDA model for challenge 3:
+Topic 1: ['saudi', 'fever', 'health', 'dengue', 'said']
+Topic 2: ['concern', 'told', 'people', 'organization', 'virus']
+Topic 3: ['seychelles', 'ebola', 'health', 'sierra', 'leone']
+Topic 4: ['vaccination', 'said', 'year', 'pakistan', 'polio']
+Topic 5: ['customers', 'quintas', 'h1n1', 'restaurant', 'measures']
+
+Top 5 topics for NMF model for challenge 3:
+Topic 1: ['cdc', 'health', 'fever', 'said', 'dengue']
+Topic 2: ['said', 'vaccination', 'year', 'pakistan', 'polio']
+Topic 3: ['staff', 'quintas', 'restaurants', 'measures', 'restaurant']
+Topic 4: ['health', 'seychelles', 'ebola', 'sierra', 'leone']
+Topic 5: ['year', 'hajj', 'health', 'arabia', 'saudi']
+
+Top 5 topics for SVD model for challenge 3:
+Topic 1: ['polio', 'fever', 'health', 'dengue', 'said']
+Topic 2: ['campaign', 'vaccination', 'year', 'pakistan', 'polio']
+Topic 3: ['staff', 'customers', 'h1n1', 'measures', 'restaurant']
+Topic 4: ['health', 'ebola', 'seychelles', 'leone', 'sierra']
+Topic 5: ['people', 'year', 'hajj', 'arabia', 'saudi']
+
+Top 5 topics for LDA model for challenge 4:
+Topic 1: ['detainees', 'parwan', 'facility', 'afghan', 'agreement']
+Topic 2: ['tombs', 'mali', 'area', 'people', 'said']
+Topic 3: ['flotilla', 'greek', 'farc', 'government', 'said']
+Topic 4: ['country', 'group', 'cnn', 'according', 'groups']
+Topic 5: ['korea', 'human', 'council', 'rights', 'north']
+
+Top 5 topics for NMF model for challenge 4:
+Topic 1: ['detainees', 'parwan', 'facility', 'afghan', 'agreement']
+Topic 2: ['korea', 'human', 'council', 'rights', 'north']
+Topic 3: ['santos', 'talks', 'government', 'said', 'farc']
+Topic 4: ['activists', 'israeli', 'said', 'flotilla', 'greek']
+Topic 5: ['people', 'area', 'mali', 'tombs', 'said']
+
+Top 5 topics for SVD model for challenge 4:
+Topic 1: ['government', 'afghan', 'agreement', 'north', 'said']
+Topic 2: ['korea', 'council', 'human', 'rights', 'north']
+Topic 3: ['flotilla', 'greek', 'said', 'farc', 'government']
+Topic 4: ['ship', 'boats', 'israeli', 'flotilla', 'greek']
+Topic 5: ['said', 'people', 'area', 'mali', 'tombs']
+
+Top 5 topics for LDA model for challenge 5:
+Topic 1: ['long', 'friday', 'said', 'power', 'new']
+Topic 2: ['despite', 'natural', 'going', 'situation', 'south']
+Topic 3: ['woodland', 'warren', 'species', 'conservation', 'butterfly']
+Topic 4: ['feet', 'missouri', 'flood', 'river', 'said']
+Topic 5: ['scenario', 'domjan', 'carbon', 'change', 'global']
+
+Top 5 topics for NMF model for challenge 5:
+Topic 1: ['scenario', 'domjan', 'carbon', 'change', 'global']
+Topic 2: ['residents', 'long', 'said', 'power', 'new']
+Topic 3: ['feet', 'missouri', 'flood', 'river', 'said']
+Topic 4: ['woodland', 'warren', 'species', 'conservation', 'butterfly']
+Topic 5: ['97', 'state', 'wildfire', 'michigan', 'miles']
+
+Top 5 topics for SVD model for challenge 5:
+Topic 1: ['scenario', 'domjan', 'carbon', 'global', 'change']
+Topic 2: ['long', 'residents', 'power', 'new', 'said']
+Topic 3: ['said', 'feet', 'missouri', 'flood', 'river']
+Topic 4: ['warren', 'species', 'woodland', 'conservation', 'butterfly']
+Topic 5: ['department', 'state', 'wildfire', 'michigan', 'miles']
+
+Top 5 topics for LDA model for challenge 6:
+Topic 1: ['leg', 'stop', 'plans', 'saturday', 'used']
+Topic 2: ['security', 'syria', 'people', 'syrian', 'said']
+Topic 3: ['syria', 'people', 'opposition', 'syrian', 'said']
+Topic 4: ['fast', 'said', 'study', 'power', 'status']
+Topic 5: ['going', 'mets', 'york', 'said', 'new']
+
+Top 5 topics for NMF model for challenge 6:
+Topic 1: ['security', 'syria', 'people', 'syrian', 'said']
+Topic 2: ['people', 'said', 'study', 'power', 'status']
+Topic 3: ['said', 'going', 'york', 'mets', 'new']
+Topic 4: ['people', 'syria', 'opposition', 'syrian', 'said']
+Topic 5: ['family', 'obama', 'washington', 'memorial', 'lincoln']
+
+Top 5 topics for SVD model for challenge 6:
+Topic 1: ['security', 'syria', 'syrian', 'people', 'said']
+Topic 2: ['low', 'demeaning', 'study', 'power', 'status']
+Topic 3: ['stadium', 'mets', 'york', 'going', 'new']
+Topic 4: ['conference', 'moadamiyeh', 'humanitarian', 'opposition', 'said']
+Topic 5: ['family', 'washington', 'obama', 'memorial', 'lincoln']
+
